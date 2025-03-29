@@ -1,6 +1,6 @@
 ## Hi, i'm Irfan ashraf👋
 
-​🚀 Aspiring Full-Stack Developer | 💻 MERN Stack Learner <br/>
+​🚀 Aspiring Full-Stack Developer | 💻 MERN Stack <br/>
 ​🎥 I make simple games and web apps to stay consistent<br/>
 🧠​ Tech Enthusiast | 🛠️ Building Projects<br/>
 🚀 Building Scalable Applications<br/>
