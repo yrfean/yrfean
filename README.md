@@ -1,7 +1,7 @@
 ## Hyp, i'm yRFAN ASHRAF👋
 (its irfan actually, but dont tell anyone👍)
 
-'Everything i was, nothing iam'
+###### _~'Everything i was, nothing iam'_
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yrfean&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
